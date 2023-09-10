@@ -1,5 +1,5 @@
 # 100xResume
-Built resume using HTML and CSS
+Built resume using HTML, TailwindCSS and CSS3
 ```sh
 https://anujaagarwal.github.io/100xResume/
 ```
